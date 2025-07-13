@@ -1,30 +1,75 @@
-@@ -1,16 +1,18 @@
-## Hi there 👋
-# 💫 About Me:
-🔭 I’m currently working on Basic Coding<br>🤝 I’m looking for help with Pro Programmer<br>🌱 I’m currently learning DSA/OOPs
+<h1 align="center">Hi 👋, I'm Yash Shinde</h1>
+<h3 align="center">Cybersecurity Enthusiast | Full Stack Developer | AI & Threat Detection Explorer</h3>
 
-<!--
-**shindeyash2304/shindeyash2304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=435&lines=Passionate+about+Cybersecurity+%F0%9F%94%93;AI-powered+Threat+Detection+%F0%9F%A4%96;Full-Stack+Web+Development+%F0%9F%92%BB;Building+for+a+safer+web+%F0%9F%92%AA" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yash-shinde-2304m11d4/) 
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shindeyash2304&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=shindeyash2304&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shindeyash2304&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ---
-[![](https://visitcount.itsvg.in/api?id=shindeyash2304&icon=0&color=0)](https://visitcount.itsvg.in)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+### 🚀 About Me
+- 🎓 **Recent B.Tech Graduate in Cybersecurity** (2025)  
+- 🛡️ Building projects in **AI-based threat detection, ransomware analysis, and red teaming**
+- 🧠 Currently pursuing **CEH Master** and diving deeper into **OSINT, AD exploitation, and SOAR**
+- 💻 Skilled in **Python, MERN Stack, Docker, Azure OpenAI, RAG pipelines**
+- 🌍 Love working on **open-source security tools** that make the internet safer
+
+---
+
+### 🔨 Tech Stack
+
+**Languages:**  
+`Python` `JavaScript` `TypeScript` `Bash` `C`  
+
+**Frameworks & Libraries:**  
+`React.js` `Node.js` `Express.js` `TailwindCSS` `Flask` `Scikit-Learn`  
+
+**DevOps & Tools:**  
+`Docker` `GitHub Actions` `Linux` `Nmap` `Burp Suite` `Metasploit` `Wireshark`  
+
+**Cloud & Security:**  
+`Azure` `Azure OpenAI` `MITRE ATT&CK` `RAG` `FAISS` `JWT` `OAuth2.0`
+
+---
+
+### 🔥 Featured Projects
+
+🚨 **AI-Powered Threat Detection Chatbot**  
+> `Python` `MERN` `Azure OpenAI` `FAISS` `MITRE`  
+> → A security chatbot that uses RAG to detect threats & guide response.  
+> [GitHub Repo](https://github.com/your-username/ai-threat-detection)
+
+🕵️ **Malicious URL & File Scanner Web App**  
+> `React` `Flask` `VirusTotal API`  
+> → Check suspicious links or files using VirusTotal & generate threat reports.  
+> [GitHub Repo](https://github.com/your-username/malicious-scanner)
+
+🧠 **OSINT Recon Tool** *(CLI + Web)*  
+> `Python` `BeautifulSoup` `Shodan API`  
+> → Automated footprinting tool to gather public intelligence on targets.  
+> [GitHub Repo](https://github.com/your-username/osint-recon)
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-username&theme=radical&hide_border=true" alt="Streak Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+</p>
+
+---
+
+### 📫 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile/)
+- 🖊️ [Blog / Writeups](https://medium.com/@your-username)
+- ✉️ Email: `youremail@example.com`
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-username&style=flat-square&color=blue" alt="Profile Views" />
+</p>
+
